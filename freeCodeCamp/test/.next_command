@@ -40,3 +40,4 @@ list
 ls --color=auto
 clear
 cd ..
+ls --color=auto
