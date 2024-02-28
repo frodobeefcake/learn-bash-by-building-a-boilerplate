@@ -224,3 +224,7 @@ find
 mv CodeRoad.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
 find
+__vsc_prompt_cmd_original
+clrear
+clear
+mkdir client/assets/fonts
