@@ -156,3 +156,4 @@ __vsc_prompt_cmd_original
 cleae
 clear
 ls --color=auto
+mv lato.font lato.ttf
