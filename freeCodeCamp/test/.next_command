@@ -43,3 +43,9 @@ cd ..
 ls --color=auto
 more package
 more package.json
+vi package.json
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
