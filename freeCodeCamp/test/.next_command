@@ -193,3 +193,6 @@ mkdir assets
 __vsc_prompt_cmd_original
 cd assets/
 mkdir images
+sl
+ls --color=auto
+cd images/
