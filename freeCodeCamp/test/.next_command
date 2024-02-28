@@ -197,3 +197,4 @@ sl
 ls --color=auto
 cd images/
 touch background.jpg
+cd ../../..
