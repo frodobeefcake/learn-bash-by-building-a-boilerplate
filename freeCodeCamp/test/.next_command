@@ -248,3 +248,7 @@ echo I finished the boilerplate!
 echo one more thing ...
 echo one more thing...
 __vsc_prompt_cmd_original
+echo I made this bloilerplate >> README.md
+rm README.md
+touch README.md
+echo I made this boilerplate >> README.md
