@@ -116,3 +116,4 @@ touch roboto.font
 touck lato.font
 touch lato.font
 touch menlo.font
+ls --color=auto
