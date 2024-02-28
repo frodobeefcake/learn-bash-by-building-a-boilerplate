@@ -56,3 +56,4 @@ ls --color=auto -l
 clear
 cd has
 ls --color=auto
+more README.md
