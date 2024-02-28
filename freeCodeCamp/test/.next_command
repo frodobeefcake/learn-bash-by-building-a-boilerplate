@@ -38,3 +38,5 @@ pwd
 __vsc_prompt_cmd_original
 list
 ls --color=auto
+clear
+cd ..
