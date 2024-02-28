@@ -41,3 +41,5 @@ ls --color=auto
 clear
 cd ..
 ls --color=auto
+more package
+more package.json
